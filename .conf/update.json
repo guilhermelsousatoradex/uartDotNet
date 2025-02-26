@@ -1,0 +1,10 @@
+[
+    {
+        "source": "testeCharlinho.csproj",
+        "target": "$projectName.csproj"
+    },
+    {
+        "source": "Dockerfile",
+        "target": "Dockerfile"
+    }
+]
